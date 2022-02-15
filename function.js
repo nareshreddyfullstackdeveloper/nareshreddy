@@ -1,6 +1,8 @@
-function add(a, b) {
-    console.log(a);
-    console.log(b)
+function add() {
+    console.log("GM")
+    console.log("GN")
 }
-add(10, 20)
-add(10)
+add()
+add()
+add()
+add()
